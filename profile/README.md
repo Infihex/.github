@@ -1,1 +1,1 @@
-<a href="https://infihex.no/">![Infihex](/profile/splash.png "Infihex")</a>
+<a href="https://github.com/kilobyteno">![Infihex](/profile/splash.png "Infihex")</a>
